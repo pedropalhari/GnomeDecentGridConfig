@@ -20,7 +20,11 @@ https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijb
 
 https://extensions.gnome.org/extension/1485/workspace-matrix/
 
-Ir em configurações e trocar o número de colunas para X. Tirar o preview dos workspaces.
+Ir em configurações e trocar o número de colunas para X. 
+
+* Tirar o preview dos workspaces
+
+https://extensions.gnome.org/extension/959/disable-workspace-switcher-popup/
 
 * Trocando os shortcuts (no meu caso eu gosto do `Elementary` então)
 
