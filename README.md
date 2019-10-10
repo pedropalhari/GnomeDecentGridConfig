@@ -20,7 +20,7 @@ https://chrome.google.com/webstore/detail/gnome-shell-integration/gphhapmejobijb
 
 https://extensions.gnome.org/extension/1485/workspace-matrix/
 
-Ir em configurações e trocar o número de colunas para X.
+Ir em configurações e trocar o número de colunas para X. Tirar o preview dos workspaces.
 
 * Trocando os shortcuts (no meu caso eu gosto do `Elementary` então)
 
@@ -41,3 +41,9 @@ $ gsettings set org.gnome.desktop.wm.keybindings move-to-workspace-right   "['<S
 ```
 
 *  Trocar os shortcuts do sistema no sistema mesmo para algo escroto, tipo `Ctrl+Alt+W` onde há tem o `Super+Right`
+
+# Deixando uma center Dock
+
+* https://extensions.gnome.org/extension/307/dash-to-dock/
+
+Colocar a dock em baixo, transparência fixed em 0%, para desbugar e centralizar clicar e desclicar "Panel mode: extend to screen edge". Isolate workspaces.
